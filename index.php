@@ -7,17 +7,17 @@
     <link href="/style.css" rel="stylesheet">
 
     <title>Nixbook OS</title>
-    <meta name="description" content="A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.">
+    <meta name="description" content="A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.">
 
     <meta property="og:title" content="Nixbook OS">
-    <meta property="og:description" content="A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.">
+    <meta property="og:description" content="A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.">
     <meta property="og:image" content="/images/nixbook.png">
     <meta property="og:url" content="https://nixbookos.org">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Nixbook OS">
-    <meta name="twitter:description" content="A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.">
+    <meta name="twitter:description" content="A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.">
     <meta name="twitter:image" content="/images/nixbook.png">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/fav/apple-touch-icon.png">
@@ -52,7 +52,7 @@
                 <img src="/images/fav/safari-pinned-tab.svg" alt="Nixbook Logo" class="h-11" />
 
                 <h1 class="mt-10 text-5xl font-semibold tracking-tight text-pretty text-white sm:text-7xl">Nixbook OS</h1>
-                <p class="mt-8 text-lg font-medium text-pretty text-gray-400 sm:text-xl/8">A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.</p>
+                <p class="mt-8 text-lg font-medium text-pretty text-gray-400 sm:text-xl/8">A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.</p>
                 <div class="mt-10 flex items-center gap-x-6">
                     <a href="https://s3.membervaultcdn.com/nixbook/nixbook-installer-25.11.iso" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Download</a>
                     <a href="https://github.com/mkellyxp/nixbook" target="_BLANK" class="text-sm/6 font-semibold text-white">View on Github <span aria-hidden="true">→</span></a>
