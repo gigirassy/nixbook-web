@@ -9,7 +9,7 @@
     <title>Nixbook OS</title>
     <meta name="description" content="A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.">
 
-    <meta property="og:title" content="Nixbook OS">
+    <meta property="og:title" content="Nixbook">
     <meta property="og:description" content="A set-and-forget NixOS configuration designed for simplicity, speed, and peace of mind.">
     <meta property="og:image" content="/images/nixbook.png">
     <meta property="og:url" content="https://nixbookos.org">
